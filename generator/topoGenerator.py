@@ -1,0 +1,3 @@
+"""
+Gera topologia toda
+"""
